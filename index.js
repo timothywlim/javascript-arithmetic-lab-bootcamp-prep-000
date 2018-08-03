@@ -15,6 +15,6 @@ function divide(a,b){
 }
 
 function inc(n) {
-  var number = parseInt('n',10)
+  var number = n
   number++
 }
