@@ -17,5 +17,4 @@ function divide(a,b){
 var number = n
 function inc(n) {
   number++
-  number
 }
